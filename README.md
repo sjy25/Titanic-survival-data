@@ -8,12 +8,17 @@ Data recorded from this tragedy includes passenger info such as gender, class of
 This project comprises two parts, namely:
 
 (i) Exploratory data analysis 
+
 -conducted data pre-processing, which included replacing NaN values for age with mean values
+
 -explored and visualized relationships between survival status and variables such as class and gender 
 
 (ii) Machine learning model to predict the survival status of a passenger 
+
 -conducted data pre-processing, which included converting categorical data to binary numbers 
+
 -tested three models, namely decision tree, multilayer perceptron and random forest classifier
+
 -evaluated the models using F1 and AUC-ROC scores 
 
 ### Dataset 
