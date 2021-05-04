@@ -3,6 +3,8 @@
 ### Overview
 On April 15, 1912, the passenger liner Titanic  collided with an iceberg during her maiden voyage as the world's largest and fastest ship.More than 1500 passengers and crew died, making this one of the deadliest  sinkings of a single passenger ship to date.
 
+Data recorded from this tragedy includes passenger info such as gender, class of travel, and survival status.This provides the opportunity to determine whether or not variables such as gender were correlated with a passenger's chances of survival. If correlation is established, it will deepen our understanding of the culture and social practices at the time (e.g. priority given to women, children and the rich)
+
 This project comprises two parts, namely:
 
 (i) Exploratory data analysis 
