@@ -15,7 +15,6 @@ This project comprises two parts, namely:
 -conducted data pre-processing, which included converting categorical data to binary numbers 
 -tested three models, namely decision tree, multilayer perceptron and random forest classifier
 -evaluated the models using F1 and AUC-ROC scores 
--tuned the model using feature selection and improved F1 and AUC-ROC scores
 
 ### Dataset 
 
